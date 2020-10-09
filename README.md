@@ -1,6 +1,6 @@
-# Pavem Digital Kannada Books
+# GTN Digital Kannada Books
 
-Pavem Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+GTN Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
 
 Check it out : https://sanchaya.org & https://sanchifoundation.org
 
