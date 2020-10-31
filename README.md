@@ -1,6 +1,6 @@
-# GTN Digital Kannada Books
+# TRA Digital Kannada Books
 
-GTN Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
+TRA Digital Kannada Books is a showcase of the #ServantsOfKnowledge project works @Sanchaya & @SanchiFoundation
 
 Check it out : https://sanchaya.org & https://sanchifoundation.org
 
