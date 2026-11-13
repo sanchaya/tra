@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tranantharamu.sanchaya.net/sitemap.xml
